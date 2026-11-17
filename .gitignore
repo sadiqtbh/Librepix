@@ -1,0 +1,12 @@
+# System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary & Build Output
+*.tmp
+*.log
+*.bak
+node_modules/
+dist/
+out/
